@@ -110,7 +110,7 @@ COHERE_API_KEY=              # Cohere for reranking
 
 ## Development
 
-The agent implementations live in the main [onelist.com](https://github.com/trinsik-labs/onelist.com) repository:
+The agent implementations live in the [onelist-local](https://github.com/trinsiklabs/onelist-local) package:
 
 ```
 lib/onelist/
@@ -153,7 +153,7 @@ lib/onelist/
 3. Make your changes
 4. Submit a pull request
 
-For agent implementation changes, please also update the corresponding onelist.com repository.
+For agent implementation changes, please also update the corresponding onelist-local repository.
 
 ## License
 
